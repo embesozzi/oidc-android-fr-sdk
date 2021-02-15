@@ -34,14 +34,17 @@ To try out Android demo perform these steps:
 ## Demostration
 
 1. App home:
-
-<img src="https://github.com/embesozzi/oidc-android-fr-sdk/blob/main/screenshot-home.png" width="240" height="440" />
+<p align="center">
+  <img src="https://github.com/embesozzi/oidc-android-fr-sdk/blob/main/screenshot-home.png" width="320" height="540" align="center" />
+</p>
 
 2. Custom Tab authentication process:
-
-<img src="https://github.com/embesozzi/oidc-android-fr-sdk/blob/main/screenshot-idp-login.png" width="240" height="440" />
+<p align="center">
+  <img src="https://github.com/embesozzi/oidc-android-fr-sdk/blob/main/screenshot-idp-login.png" wwidth="320" height="540" align="center" />
+</p>
 
 3. User information:
-
-<img src="https://github.com/embesozzi/oidc-android-fr-sdk/blob/main/screenshot-user.png width="240" height="440" />
+<p align="center">
+  <img src="https://github.com/embesozzi/oidc-android-fr-sdk/blob/main/screenshot-user.png" width="320" height="540" align="center" />
+</p>
 
