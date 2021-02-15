@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "oidc-android-fr-sdk"
