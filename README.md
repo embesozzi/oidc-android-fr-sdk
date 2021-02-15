@@ -15,12 +15,8 @@ The Android Demo App implements OAuth 2.0 flow with the ForgeRock SDK in mode Ce
 
 ## Requirements
 
-* ForgeRock Identity Platform
-    * Access Management (AM) 6.5.2+
-
-* Android API level 21+
-    * Android 5.0 (Lollipop), 6.0 (Marshmallow), 7.0 (Nougat), 8.0 (Oreo), 9.0 (Pie), 10.0, 11.0
-
+* ForgeRock Identity Platform: Access Management (AM) 6.5.2+
+* Android API level 21+: Android 5.0 (Lollipop), 6.0 (Marshmallow), 7.0 (Nougat), 8.0 (Oreo), 9.0 (Pie), 10.0, 11.0
 
 ## Getting Started
 
