@@ -1,11 +1,9 @@
-# OIDC Android App with ForgeRock SDK
-
 <p align="center">
   <h1 align="center">OIDC Android App with ForgeRock SDK</h1>
   <p align="center">
     <a href="#requirements">Requirements</a>
     ·
-    <a href="#getting started">Getting Started</a>
+    <a href="#getting-started">Getting Started</a>
     ·
     <a href="#demostration">Demostration</a>
   </p>
